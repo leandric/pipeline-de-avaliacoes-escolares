@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados locais do projeto
+data/
+
+# Roadmap pessoal (mantido só localmente)
+ROADMAP.md
+
+# Arquivos CSV
+*.csv
